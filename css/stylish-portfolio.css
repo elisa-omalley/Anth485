@@ -170,6 +170,7 @@ hr.small {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    text-outline: 2px 2px #ff0000
 }
 
 
