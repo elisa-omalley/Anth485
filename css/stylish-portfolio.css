@@ -170,9 +170,7 @@ hr.small {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    outline-style: inherit;
-	outline-color: ##ff0000;
-	outline-width: 1px;
+    text-outline: thickness blur color;
    
 }
 
