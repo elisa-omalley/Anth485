@@ -49,7 +49,7 @@ body {
 }
 
 .btn-light {
-    color: #333;
+    color: #AF3D3D;
     border: none;
     border-radius: 0;
     background-color: rgb(255, 255, 255);
@@ -58,7 +58,7 @@ body {
 .btn-light:hover,
 .btn-light:focus,
 .btn-light:active {
-    color: #333;
+    color: #AF3D3D;
     background-color: rgba(255, 255, 255, .8);
 }
 
