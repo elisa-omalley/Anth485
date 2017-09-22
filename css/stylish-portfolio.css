@@ -45,21 +45,21 @@ body {
 .btn-dark:focus,
 .btn-dark:active {
     color: #fff;
-    background-color: rgba(0, 0, 0, .7);
+    background-color: #AF3D3D;;
 }
 
 .btn-light {
     color: #AF3D3D;
     border: none;
     border-radius: 0;
-    background-color: rgb(255, 255, 255);
+    background-color: #AF3D3D;
 }
 
 .btn-light:hover,
 .btn-light:focus,
 .btn-light:active {
     color: #AF3D3D;
-    background-color: rgba(255, 255, 255, .8);
+    background-color: #AF3D3D;;
 }
 
 
