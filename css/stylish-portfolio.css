@@ -59,7 +59,7 @@ body {
 .btn-light:focus,
 .btn-light:active {
     color: #AF3D3D;
-    background-color: #FFFF;
+    background-color:rgba(255, 255, 255, .2);
 }
 
 
